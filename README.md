@@ -1,22 +1,22 @@
 # Opencore-T480
 
-#Working OS's:
+# Working OS's:
 
 Mac OS 10.15
 Mac OS 11
 
-#OS's which don't work:
+# OS's which don't work:
 
 Windows 10 and 11
 Mac OS 12
 
-#Untested OS's:
+# Untested OS's:
 
 OS's Older than Mac OS 10.15
 OS's Newer than Mac OS 12
 Linux
 
-#What works:
+# What works:
 
 Battery Indicator
 Wifi
@@ -25,12 +25,12 @@ USB Ports
 Audio Out
 Mic in
 
-#What doesn't work:
+# What doesn't work:
 
 Touch ID
 Touch Screen
 
-#Untested:
+# Untested:
 
 USB-C
 Display Port Display Out
