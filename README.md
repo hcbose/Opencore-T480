@@ -1,4 +1,4 @@
-# Opencore-T480
+# # Opencore-T480
 
 # Working OS's:
 
@@ -32,5 +32,5 @@ Touch Screen,
 
 # Untested:
 
-USB-C, \n
+USB-C,
 Display Port Display Out,
